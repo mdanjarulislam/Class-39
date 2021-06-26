@@ -1,0 +1,23 @@
+@media all and (max-width:1199px) {
+    .servics .servics-left h3 {
+        margin-top: 60px;
+        
+    }
+    
+}
+@media all and (max-width:991px) {
+    .about .about-left h3 {
+        margin-top: 0px;
+    }
+}
+@media all and (max-width:767px) {
+    .about-left {
+        margin-top: 20px;
+    }
+    .extra{
+        margin-top: 20px;
+    }
+    .temp .temp-item {
+        margin-top: 70px;
+    }
+}
